@@ -1,0 +1,38 @@
+1. Sistemas Desktop x Sistemas Web
+
+- Para o desenvolvimento de um software o 1º passo definir a plataforma onde o software será executado
+- Sistema Desktop: Arquivo de instalação, instalação interna em um computador, arquivo executável
+• Desvantagem: Não é possível acessar o aplicativo em outro local
+- Sistema Web: Tecnologia Web, pode usar remotamente em qualquer navegador de internet, não há a necessidade de instalações e atualizações 
+- Aplicação móvel ou mobile: software a ser utilizado pelos smarthphones e/ou tablets - baixado em uma loja online (android/IOS)
+
+
+2. Profissionais de Software
+
+- Portifólio e layouts
+• UX Designer (User Experience) - visa melhorar a satisfação do cliente por meio de melhorias na usabilidade, acessibilidadedo, satisfação a interação do software/produto, experiência do usuário junto a um portifólio que será utilizado
+• UX Comportamento - pesquisa, portifólio, objtivos
+• UI Aparência - Design, tipografia, cores, layouts
+
+- Desenvolvimento 
+• Modelo Cliente-Servidor: distribuição de tarefas e cargos de trabalhos entre os forncedores de um recurso ou serviço (Desenvolvedor Front End e Back End)
+• Desenvolvedor Front End: responsável em programar a parte visual de um site/aplicativo, ou seja, o que é possível interagir. Usa códigos de interfaces gráficas, normalmente baseado na Web (HTML, CSS, Java Script)
+*IDE: ambiente de desenvolvimento integrado - software para criar aplicações que combina ferramentas comuns de desenvolvimento em uma única interface gráfica do usuário (GUI)
+* Frameworks: são facilitadores que trazem soluções pré-definidas
+• Desenvolvedor Back End: responsável pelo desenvolvimento da API um intermediário de software que permite que o dois aplicativos se conversem entre si - banco de dados e navegador vice-versa (regras de negócio, validações, garantias que o usuário não possa manipular e ter acesso (Java, PHP, C#)
+• Desenvolvedor Ful Stack: trabalha com as duas frentes e possuem habilidade ampla
+
+- QA - Quatity Assurance
+• Responsável por um conjunto e ações de testes de qualidade, funcionamento, segurança e confiança para que o projeto seja entregue da melhor forma (alto nível) ao cliente - deve ter o conhecimento das atividades do projeto num todo, além de ter perfil analítico. 
+
+3. Infraestrutura
+
+Cliente - Servidor Privado - Servidor público
+• Profissional de Clound Computing - que cuidam da infra estrutura, tecnologia escolhida dos servidores
+
+4. Desenvolvimento Mobile 
+Android (Java / Kotlin) 
+IOS - Swift (Mc pró)
+
+5. Desenvolvimento Hibrido 
+Android e IOS, mas não tem um bom desenvolvimento num aparelho movel

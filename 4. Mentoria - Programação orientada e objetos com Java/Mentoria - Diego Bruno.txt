@@ -1,0 +1,36 @@
+- POO - PROGRAMAÇÃO ORIENTADA A OBJETOS
+• Objetivo: adaptar-se a especificidades de problema por meio de adição de novos tipos de objetos
+• POO -> Potifólio, Herança, Abstração, Encapsulamento
+• Ler o código = descrever a solução do problema 
+• POO = solução do problema seja descrita em problema em si, onde a solução será executada
+• Objetos são instâncias de classes = qual informação um objeto contém e como ele pode manipulá-la
+• Conceito Herança = objetos que possuem a mesma estrutura
+
+- PROGRAMAÇÃO ESTRUTURADA
+• 3 tipos de Estrutura - Sequência (linha por linha e interpretando o que acontece), seleção (if que são condicionais - condições que permitem uma ação) e repetição (situações que devem acontecer repetidamente, e com interação em um novo ciclo)
+
+A PROGRAMAÇÃO ESTRUTUDA têm várias funções que se comunicam com os dados 
+A PROGRAMAÇÃO ORIENTADA A OBJETOS tem objetos que tem seus dados e métodos que são separados, não é tudo junto
+
+OBJETO = entidade que possui atributos, ou propriedades (estado do objeto no mundo real)
+AÇÕES (subprogramas) ou MÉTODOS = associados a objetos ao mundo real
+IDENTIFICADOR ou NOME = designa univocamente na representação 
+* Atributos - o que é objeto - tem NOME e VALOR 
+* Ações - caracterista do objeto, o que deve realizar
+* Identificador - nome para o objeto para conseguir ações entre si
+* Métodos - comportamento associados ao objeto
+
+TDA - Abstratos de Dados - estrutura criada para o desenvolvimento usando determinado método
+• Cada objeto tem um identificador - objetos iguais podem ser objetos distintos (com diferentes indentificares), mas com estados iguais (atributos)
+
+=
+
+POO = representa o mundo real nos sistemas computacionais, em módulos que agrupam um estado e operações sobre eles
+POO = possui o conceito de herança que são mecanismos existentes que podem ser estendidas 
+
+Polimorfismo = métodos com a mesma assinatura, mas se comportam diferentes para cada uma das classes derivadas 
+
+
+
+
+

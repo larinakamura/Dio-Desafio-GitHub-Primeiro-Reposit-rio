@@ -1,0 +1,97 @@
+- O que é qualidade de software?
+• literatura: NBR/ ISO 900:2005 - conjuto de características inerentes que satisfaz os requisitos 
+• Peters (2002) ; Sanders (1994) ; Pressman
+
+- Objeitivos: 
+• ISO / IEC 25010:2011: Satisfazer necessidades declaradas 
+• IEEE Standard (2014) - a qualidade dependente do grau em que esses requisitos representam com precisão as necessidades, desejos e expectativas das partes interessadas
+• ISO
+• IEC 
+• Aspectos importantes 
+* Medir qualidade, conjunto de critérios de desenvolvimento, requisitos implícitos que não são mencionados e que afetam diretamento a qualidade 
+* Visão Transcendental, usuário, manufatura, baseada em valor
+
+- Normas: 
+Família ISO 9000 - ISO 9000; ISO 9001 ; ISO 9004 ; ISO 9126 ; ISO 19011 ; ISO/IEC 14598 ; ISO/IEC/IEEE 12207:2017 / 15288/2015 ; ISO 19011 ; IEEE: 1012: 2016 ; IEEE 730:2014 ; ISO/IEC/IEEE 15289:2019 ; ISO/IEC/IEEE 29119:2013 ; ISO/IEC 25000 -> 25099
+
+- Medindo a Qualidade:
+• Ciclo:
+Qualidade do processo <-> Qualidade interna <-> Qualidade externa <-> Qualidade de uso
+
+- Qualidade de produto de Software - Iso/IEC 25010 
+• Adequação funcional, performance, eficiência, compatibilidade, usabilidade, confiabilidade, segurança, manutenibilidade, portabilidade
+
+- Gerênciamento de Sofware 
+• Planejamento de qualidade (Padrões, processos, metas, escorço e organização
+• Garantia de qualidade (Atividade e validação de ações que estabelecem a confiança no produto)
+• Controle de qualidade (Ações que estão sendo seguidas)
+• Melhoria de qualidade (melhoria eficiênte)
+
+
+- Gerenciamento de defeitos
+• Análise estática: Avaliação de documentação do software e código-fonte
+• Análise dinâmica: Técnicas com o código em execução 
+• Análise estática: avaliação documental do software e código-fonte
+• Análise histórica e modelagens 
+• Validação - o produto que o usuário pediu está correto da forma que está sendo construída
+• Verificação - garantir que o produto está sendo construído corretamente
+
+- Ciclo de Vida de um Bug
+• New -> Assigned -> Open (ReOpened) -> Fixed -> Pending Retest -> Retest (ReOpened) -> Verified -> Closed
+• Reporte de defeitos: identificador único, título resumindo o problema, data/autor, item sob teste e do ambiente, fase do cilho de vida no qual o defeito foi observado, descrição completa do defeito para reprodução, evidência no auxílio na resolução 
+• resultado esperado, severidade, urgência/ prioridade, estado de defeito, conclusões/ sugestões, impactos, histórico, referência do teste
+
+- O que é teste?
+• Valiação e redução de falhas no software, controle de qualidade (processo que mostra falhas causadas por defeitos do software)
+• Depuração - investigação da correção do erro 
+
+- Atividades de teste:
+• Planejamento (propósito e tarefas), monitoramento e controle do teste (andamento do teste se está conforme o planejamento), análise (o que testar), modelagem (como irá testar - prioridades), implementação, excecução e conclusão 
+• Níveis de teste: Componentes, integração, sistema, aceite
+• Tipos de Teste: 
+* Funcional: avalia funções que o sistema deve executar 
+* Não Funcionais: avalia características não funcionais como usabilidade, segurança, performance
+* Caixa-Branca: avalia a estrutura interna do sistema
+* Mudança: Confirmação - após defeito ser corrigido / Regressão - verifica efeitos colaterais nas alteração dos componentes do sistema
+• Caixa-Preta: aplicavel para testes funcionais e não-funcionais - fundamentadas em documento de requisitos, casos de uso, história do usuário - foco na entrada e saída do teste
+
+- Técnicas de Teste
+• Particionamento de equivalência - divide os dados em participaçãoes ou classes de equivalência
+• Análise de valor limite - analise do valor mínimo e máximo
+• Tabela de decisão - avalia requisitos que especificam condições que geram varios resultados 
+• Transição de estado - dependendo do estado, o sistema reage de forma diferente a um evento
+• Casos de Uso - avaliado a partir de casos de uso
+• Caixa-Branca - tecnicas baseada em estruturas internas, componente no código-fonte
+• Cobertura de instruções - testa instruções executáveis do código e a cobertura
+• Cobertura de decisão - testa as condicionais existentes no códigos
+• Experiência 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

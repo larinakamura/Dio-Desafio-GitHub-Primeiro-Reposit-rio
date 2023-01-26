@@ -1,0 +1,95 @@
+- Definições de fluxo, processo e padrões do software 
+
+- O que é processo de software? - metadologia para atividades, ações e tarefas necessárias para o desenvolvimento do software
+
+- Pontos importantes: Planejamento, organização, comunicação, modelagem, construção, entrega, especificação, validação 
+
+- Fluxo do projeto : Comunicação - Planejamento - Modelagem - Construção - Entrega
+• Haverá um projeto central 
+• Tipos de fluxos - Sequêncial (linear) ; Interativo (haverá uma sequência, mas sempre terá um feedback) ; evolucionário (inicia com a comunicação e depois desenvolve ou demais processos) ; paralelo (processos podem acontecer em sequência, mas ao mesmo tempo paralelamente)
+
+- Tipos de Modelos:
+• Modelo Prescritivo ("tradicional / Clássico") - preza a ordem e consistencia do processo ; prescreve o conjunto de elementos do processo e fluxo 
+• Modelo Cascata (clássico/linear/sistemático) - exige bastante documentação - comunicação -> planejamento -> Modelagem -> construção -> entrega ouu
+Requerimento -> projeto -> implementação -> verificação -> manutenção 
+• Modelo V - a estrutura não é diferente das anteriores, mas muda visualmente os processos 
+• Incremental - Requisitos bem definidos, mas não refinados - entrega de pequenos processos incrementais, há uma sequência linear, mas em pedaços
+* Prototipagem - uso de prototipo para incremento do produto 
+• Modelo Evolucionário - sistemas complexos - desenvolvimento de softwares que crescem e se adaptam constantemente (prototipagem e espiral)
+• Modelo Concorrente - representação concorrente das atividades de qualquer processo
+• Modelo especializados - métodos muitos específicos - baseado em componentes com interfaces definidas para serem integradas ao software (COTS) - evolucionário por natureza - foco na reutilização (redução de tempo)
+• Modelo de Métodos Formais - condução atraves de especificações matemáticas formais do software - complexo
+• Modelo orientado a aspectos - abordagem metodológica e processos para definir, planejar, projetar, especificar e construir pontos de interesse na aplicação
+
+- Processo Unificado
+• Início dos anos 90 - combinação das melhores características de outros processos (UML)
+• Fases - Concepção (comunicação e planejamento) - Elaboração (planejamento e modelagem) - Construção (desenvolvimento) - Transição (construção e entrega) - Produção (entrega)
+
+*** MODELO ÁGIL ***
+• Manifesto Ágil - documento compilado com métodos leves com a valorização do indivíduo, interação, software em funcionamento, colaboração com o cliente e responder a mudanças
+• Objetivos: satisfação do cliente, mudanças sempre são bem vindas, entrega do software funcionando numa menor escala de tempo, pessoas de negócio e desenvolvedores trabalham juntos, projetos construídos com pessoas motivadas, com confiança e bom ambiente, sustentabiliadde que mantém o ritmo do projeto, atenção na excelência técnica e bom design, simplicidade, equipes organizáveis, trabalho constante em equipe (revisão, refinamento e ajustes)
+- * Extreme Programming - XP (1980) *
+• Prgramação Extrema - regras e práticas constantes durante o processo do software - foco na orientação e objetivos (PROCESSOS XP)
+• Estapas: 
+* Planejamento (planning poker) - máximo 3 semanas 
+* Projeto (Kiss - keep it simples, stupid) - cartões CRC
+* Condições - TDD (desenvolvimento orientado por teste) - Refatoração - Programação em pares 
+* Teste - TDD - interação contínua - inclusão de testes de aceite (história do usuário)
+• Valores: Simplicidade - Comunicação, respeito, coragem e feedback
+- * Srum *
+• Partida de rugby - equipe unida
+• Empirismo (observação e experimento) - Lean thinkin (utilizar o suficiente) - iterativo - Incremental 
+• Valores - Coragem, foco, comprometimento, respeito, abertura
+• Pilares - Transparência, adaptação e inspeção 
+• Processo:
+Ideia do produto -> P.O. -> Product Backlog -> Planing Meeting -> Spring Backlog (Daily Stand Up) -> Deployment 
+*Planning - Criação da Sprint do Backlog - Definição do que será trabalho na Sprint 
+*Daily (Diário) - inspeção da sprint e plano de trabalho
+*Sprint Review - apresenta e inspeciona resultados ao cliente - o que conseguiu finalizar PBI
+*Sprint Retrospect - Balanceamento de como foi o projeto, planejamento e conclusão de uma sprint
+• Arte fatos - documentação da sprint 
+• Equipe:
+* Scrum Team - Pequeno time de pessoas sem hierarquia - todos envolvidos na etapa
+* P.O. (product Owner) - gerencia o Product Backlog, conhecedor dos processos e ligação com o cliente 
+* Desenvolvedor - Criação - desenvolve 
+* Scrum Master - facilitador e gerenciador das etapas do projeto 
+• Fases: 
+* Pré-Projeto - orçamento, contrato, projeto 
+* Ciclo-devida - desenvolvimento do produto, análise, interação com o modelo funcional, desing, construção, implantação
+* Pós-projeto - Manutenção, melhorias e ajustes
+• PAPEL DO QA NO MODELO ÁGIL
+*** análise da história, determinar testabilidade da história, criar testes de aceite, tarefas para testes, estimar esforço, identificar aspectos funcionais e não funcionais, participar do projeto de automação 
+*** adaptação, verificar riscos, determinar o escopo, estar em todo o processo, ter atitude, comunicação 
+• Modelos de testes
+*TDD - Desenvolvimentos orientados por testes
+* ATDD - Desenvolvimento orientado por tesde de aceite (nível mais alto para o mais baixo)
+* BDD - desenvolvimento orientado por comportamento do teste
+
+**** TESTE ****
+- Tipos de testes no cliclo de vida de desenvolvimento do software
+• níveis - funcionais, não funcionais e caixa branca
+* Teste de regressão - detecta defeitos colaterais não intencionais
+* Teste de confirmação - verificar se o defeito original foi corrigido
+* Teste de integração - baseado na interface, objetivo de localizar falhas na comunicação, tanto no nível funcional e não funcional
+* Teste de manutenção - testar o sistema após a migração para uma nova plataforma operacional 
+* Teste estático - forma mais barata de terectar e remover defeitos - trabalho sob revisão
+* Teste exploratórios - projeção e execução dos testes de forma dinâmica baseado no conhecimento próprio
+• Gerenciamento 
+* Planeja, coordena, controla as atividades que envolvem os testes e o testador automatiza os testes
+* Execução de testes - porcentagens de casos de testes executados
+* detalhes do ambiente do teste, resultado real, referencia a especificações do caso de teste
+* Métricas de estimativas de teste - orçamento que foi utilizado por um projeto de teste anterior semelhante
+
+
+
+
+
+
+
+
+
+
+
+
+
+

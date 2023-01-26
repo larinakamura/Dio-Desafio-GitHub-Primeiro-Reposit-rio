@@ -1,0 +1,74 @@
+- Crescimento do mercado de TI 
+• Software empresariais, infraestrutura, desenvolvimento, produtividade
+• 1º EUA, 2º China, 3º Japão...9º Brasil
+
+- Linguagens mais utilixadas:
+• Java Script, Java, PHP, C#, Python, Delphi, Typescript, Ruby, Kotlin, Dart, Net(Core), Swift
+
+- Importância/História da qualidade de software:
+• Década de 60 - softwares robustos, não confiáveis e difícil manutenção
+• Adoção de métodos gerenciais baseados na industria de manufaturas
+• Preocupações: Gerenciamento de Qualidade - Segurança, Compreensibilidade, Portabilidade
+• Objetivo em acompanhar o projeto desde a criação até a entrega
+• Novas tecnologias: IA, IoT, Clound, Blackchain (área financeira) - Foco em segurança
+
+- O que é um QA? 
+• Presente em todo o ciclo de produção de software
+• A qualidade de software faz parte da Engenharia de Software
+• Validação e verificações de funcionalidade, gestão de defeitos e processos de qualidade 
+• Responsabilidades:
+*Redução de custos e retrabalho
+* Identificação de problemas
+* Entrega de produtos com qualidade
+* Melhora na satisfação do cliente e estimativa do projeto 
+* Otimização na rotina do trabalho
+* Auxilio aos desenvolvedores 
+* Gerenciamento de defeitos do Sofware
+* Testes Manuais
+* Auxílio na compreenção da história para validar e verificar requisitos 
+* Testes automatizados 
+• Certificaçãoes: ISTQB, BSTQB, IBQTS, CTFL
+
+- Roadmaps 
+• Processos de software e ciclo de vida
+• Fundamentos de ciência da computação
+• Fundamentos de programação 
+• Padrões de projeto e arquitetura de sistemas 
+• Fundamentos de aplicações WEB e Redes
+• CI/CD
+• Testes automatizados 
+
+- Fundamentos de qualidade de software 
+• definições de qualidade
+• priorização e técnicas de testes
+• plano de teste e documentação
+• gerenciamento de casos de testes
+• taxonomia de testes
+• gerencimento de defeitos
+• métricas - relatórios
+
+- Soft Skills e Mindset 
+• Erros de QA - falha na análise, medo de fazer perguntas, automações falhas e sem padrões, esquecer do usuário, culpar os outros, não ter visão do que ocorre em produção, não dar importância ao processo técnico do desenvolvimento
+• Funcionalidade, Confiabiliade, Usabilidade, Eficiência, Manutenibilidade, Portabilidade
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

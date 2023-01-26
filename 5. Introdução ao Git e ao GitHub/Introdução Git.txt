@@ -1,0 +1,70 @@
+	GIT
+• Objetivo = manter o estado do arquivo, bases anteriores que chegou a esse arquivo atual, até chegar no resultado esperado
+• Git = sistema versionamedo de código distribuído (2005-Linus Torvalds)
+• Um softwae é desenvolvido de forma colaborativa 
+• benefício - controle da versão; armazenamento em nuvem ; trabalho em equipe ; melhorar seu código ; reconhecimento 
+
+CLI - Command-line interface - não tem uma interface gráfica, que é a linha de comando do GIT
+GUI - Grafical User Interface - tem interface gráfica 
+FLEGS = Variâncias (complementos dos comandos)
+
+WINDOWS - cd ; dir ; mkdir ; del/rmdir
+UXIX - cd ; is ; mkdir ; rm-rf (linus)
+
+WINDOWS - git branch -h (todas os atalhos do Git)
+dir - diretório de pastas
+cd/ - navegar entre as pastas 
+cd .. - retroceder uma pasta
+cls - limpar o terminal 
+ctrl+L - limpar o terminal 
+tab - completa o código
+mkdir - criar pasta
+rmdir "nome da pasta" - apaga a pasta 
+echo "nome do arquivo" - criar arquivo (.txt)
+echo 'conteudo'/git hash-object --stdin - SHA1 do 'conteudo'
+echo -e 'conteudo'/ openssl sha1 - sha1 desse 'conteudo', mas com diferente sequência que o anterior
+del - deletar arquivo 
+ls - listar o que tem na pasta
+git init - iniciar um repositório 
+git add - mover arquivos e primeiros comandos
+git commit - criar um commit
+git -a - aparece pastas ocultas
+git status - status dos arquivos 
+mv "nome do arquivo" - mover o arquivo na pasta nova
+git add * - add tudo que foi modificado
+git add . 
+git add 'nome do arquivo'
+git commit -m 'mensagem' - envelopar o arquivo, criando um calor a ele
+git push origin master - add dados ao GitHub
+git pull origin master - puxar dados do repositório GitHub
+git clone 'link do repositório' - baixar os dados do repositório no GitHub
+
+
+CHAVE SSH
+ssh -t ed 25519 -c 'meu e-mail' (enter) - vai ferar a chave
+cd /c/user/larinakamura/.ssh (enter) 
+ls - listar o que tem na pasta
+$ cat id_ed25519.pub (enter) - chave pública 
+(para vincular essa chave = vai ao GitHub -> settings -> SSh -> nova chave (nomeia e acrescenta a chave) 
+eval (ssh-agent -s) (enter) 
+ls - listar a pasta
+ssh -add id_ed25519 (enter)
+(entrar no GitHub - SSH - pegar o link/chave e colar no Git
+git clone "chave do Github do ssh" (enter)
+ls - listar a pasta
+
+SHA1 - Secure Hash Algorithm - conjunto de funções do Hash criptograficas projetadas pela NSA (agência de segurança Nacional dos EUA) 
+* tem como métodos embalhar as informações em um código de 40 digitos criptografados de forma segura - toda vez que há qualquer alteração no arquivo cria-se uma nova sequência de SHA1
+
+BLOBS - diretório que aponta outros diretórios 
+TREE - árvores - armazenam os blobs - objetos - uma árvore pode apontar para outra arvore (tree <tamanho> \0 blob SHA1 'nome do arquivo)
+COMMIT - juntará tudo (explica a alteração feita = árvore, "parente" -último commit feito, autor, mensagem) 
+CHAVE SSH - forma segura e encríptada entre duas máquinas (sempre uma chave pública e outra privada) 
+TOKEN - acesso pessoal - Settings -> developer settings -> personal acess token (class) -> generate new token (class) (colocar um nome e marcar repositório) -> generate token -> vai no Git e coloca git clone "link criado no token"
+
+
+
+
+
+
+

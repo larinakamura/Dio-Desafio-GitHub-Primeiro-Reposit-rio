@@ -1,0 +1,15 @@
+1. O que é um Desafio de Código?
+Desenvolver o pensamento computacional e raciocínio lógico que permite aumentar a capacidade em resolver problemas, criando experiências.
+
+2. Desafios Iniciais 
+- Identificar as definições e particulariedades
+- Todo desafio tem uma descrição 
+- Ler o que o desafio de código está solicitando
+- Entrada: informação para conseguir resolver o problema, ou seja, é o valor ou o conjunto de valores necessários para conseguir resolver o problema
+- Saíde: é o resultado da entrada
+
+3. Desafios de projetos
+- Como resolver um desafio de projeto? - o desafio de projeto tem como objetivo promover a criação de um portifólio de projeto consistente no GitHub (entrevista técnica)
+- GitHub - website/host - repositório onde pode-se armazenar códigos fontes de projeto visiveis para empresas e outros desenvolvedores
+- Seu portifólio será seu cartão de visitas
+
